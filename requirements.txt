@@ -4,3 +4,4 @@ snowflake-ml-python
 snowflake-snowpark-python
 streamlit
 pandas
+snowflake-connector-python
