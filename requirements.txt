@@ -1,7 +1,6 @@
 #requirements.txt
 
+python=3.11
 snowflake-ml-python
 snowflake-snowpark-python
 streamlit
-pandas
-snowflake-connector-python
