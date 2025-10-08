@@ -1,0 +1,7 @@
+#requirements.txt
+
+snowflake-ml-python
+snowflake-snowpark-python
+snowflake-cortex
+streamlit
+pandas
